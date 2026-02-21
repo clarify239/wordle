@@ -1,0 +1,16 @@
+# dune exec bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/claire/.cache/dune/db
+# Workspace root: /home/claire/3110/assignments/a1
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/claire/.opam/cs3110-2026sp/bin/ocamlc.opt -config > /tmp/dune_42bac0_output

@@ -1,0 +1,6 @@
+(test
+ (name test_a1)
+ (libraries ounit2 a1)
+ (deps (glob_files_rec ../data/*))
+ )
+
